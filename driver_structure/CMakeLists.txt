@@ -7,5 +7,5 @@ file(GLOB_RECURSE SRC_FILES src/*.c)
 
 add_executable(driver main.c ${SRC_FILES})
 
-
+# This will add folder in search dir list for .h files
 target_include_directories(driver PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/inc)
