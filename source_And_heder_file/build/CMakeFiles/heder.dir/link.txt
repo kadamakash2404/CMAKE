@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/heder.dir/main.c.o -o heder 

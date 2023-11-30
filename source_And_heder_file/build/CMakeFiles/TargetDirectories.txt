@@ -1,0 +1,3 @@
+/home/akash/Desktop/cmake_trutorial/source_And_heder_file/build/CMakeFiles/heder.dir
+/home/akash/Desktop/cmake_trutorial/source_And_heder_file/build/CMakeFiles/edit_cache.dir
+/home/akash/Desktop/cmake_trutorial/source_And_heder_file/build/CMakeFiles/rebuild_cache.dir

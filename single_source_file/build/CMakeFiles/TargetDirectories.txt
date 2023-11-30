@@ -1,0 +1,3 @@
+/home/akash/Desktop/cmake_trutorial/single_source_file/build/CMakeFiles/helloworld.dir
+/home/akash/Desktop/cmake_trutorial/single_source_file/build/CMakeFiles/edit_cache.dir
+/home/akash/Desktop/cmake_trutorial/single_source_file/build/CMakeFiles/rebuild_cache.dir
